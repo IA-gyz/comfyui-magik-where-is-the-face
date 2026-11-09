@@ -1,0 +1,16 @@
+[project]
+name = "comfyui-magik-where-is-the-face"
+version = "1.0.0"
+description = 'Magik Where Is The Face'
+authors = [{name = "IA-gyz"}]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/IA-gyz/comfyui-magik-where-is-the-face"
+
+[tool.comfy]
+PublisherId = "IA-gyz"
+DisplayName = "Magik Where Is The Face"
